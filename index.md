@@ -1,7 +1,6 @@
 ## Welcome to yennhi143.github.io
 
 Chào mọi người 👋
-_______________________________________________
 
 📝 Đây là một chút thông tin về mình
 
